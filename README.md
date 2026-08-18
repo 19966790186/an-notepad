@@ -1,14 +1,21 @@
-# an‑notepad
-简易记事本，使用 Python 实现。
+# an-notepad
 
-## 项目介绍
-一个简单的记事本程序，可以完成文本编辑、保存文件等基础功能。
+Simple notepad, implemented using Python.
 
-## 运行环境
-- Python 3.x
+## Project introduction
 
-## 使用方法
-1. 下载项目代码
-2. 运行脚本
-```bash
-python notepad.py
+A simple notepad program that can complete basic functions such as text editing and saving files.
+
+## Operating environment
+
+-Python 3.x
+
+## How to use
+
+1. Download the project code
+
+2. Run the script
+
+"Bash"
+
+Python notepad.py
